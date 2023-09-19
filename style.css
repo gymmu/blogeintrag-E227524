@@ -6,6 +6,11 @@
 
 body {
   margin: 0;
-  background-color: mediumturquoise;
   font-family: sans-serif;
+}
+body{
+  background-image: url(https://images.pexels.com/photos/2397653/pexels-photo-2397653.jpeg?cs=srgb&dl=pexels-jeremy-bishop-2397653.jpg&fm=jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
